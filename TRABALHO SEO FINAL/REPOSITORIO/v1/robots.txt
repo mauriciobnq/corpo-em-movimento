@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+# Parametros de rastreamento geram URLs duplicadas das mesmas paginas
+Disallow: /*?utm_
+Disallow: /*?fbclid=
+Disallow: /*?gclid=
+
+# CSS, JS e imagens NAO sao bloqueados, para o Google renderizar a pagina.
+# /obrigado/ e a 404 usam meta robots noindex (nao bloquear aqui, ou o Google nao leria o noindex).
+
+Sitemap: https://corpoemmovimento-catanduva.netlify.app/sitemap.xml

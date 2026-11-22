@@ -1,0 +1,11 @@
+# Redirecionamentos 301 (v0 -> v1). Funciona no Netlify e no Cloudflare Pages.
+/index.html  /  301
+/sobre.html  /sobre/  301
+/contato.html  /contato/  301
+/depoimentos.html  /depoimentos/  301
+/faq.html  /perguntas-frequentes/  301
+/agendar.html  /agendar/  301
+/obrigado.html  /obrigado/  301
+/Servicos/Fisioterapia_Esportiva.html  /fisioterapia-esportiva-catanduva/  301
+/Servicos/Pilates.html  /pilates-catanduva/  301
+/Servicos/Massagem_Relaxante.html  /massagem-relaxante-catanduva/  301

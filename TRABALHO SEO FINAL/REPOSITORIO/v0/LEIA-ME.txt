@@ -1,0 +1,22 @@
+KIT INICIAL (v0) - TRABALHO PRÁTICO DE SEO
+
+Este é o site inicial do seu grupo. O visual (cores, layout, imagens) e a adaptação a
+celulares e tablets já estão prontos e não fazem parte da avaliação. Em compensação, o site
+foi feito de propósito SEM nenhum cuidado de SEO e com a organização do conteúdo por fazer
+(nomes e endereços das páginas, estrutura de links, textos). Todos os dados (marca, telefones,
+endereços, produtos) são fictícios.
+
+Estrutura de arquivos:
+  index.html, outras páginas .html   páginas do site
+  css/estilo.css                     folha de estilo única do site
+  imagens/                           fotos e ilustrações usadas nas páginas
+  LEIA-ME.txt                        este arquivo
+
+O que fazer:
+1. Copie esta pasta para um repositório Git e publique como está (esta é a v0).
+2. Faça o diagnóstico: rode as ferramentas indicadas no trabalho e anote as métricas de partida.
+3. Crie a v1 aplicando o conteúdo das semanas 1 a 14. Você pode mudar nomes de arquivos,
+   estrutura, textos, imagens e páginas; mantenha a v0 intacta para o comparativo antes/depois.
+4. Complete o site com o que o trabalho pedir para o cenário do seu grupo.
+
+Abra index.html no navegador para começar. Nenhum servidor é necessário.
